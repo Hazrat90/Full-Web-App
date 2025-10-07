@@ -8,4 +8,3 @@ Starter Next.js + TailwindCSS app to track builder contributions and reward poin
 ## Quick start
 
 
-1. Install dependencies:
